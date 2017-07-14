@@ -1,3 +1,4 @@
-# lazydemo
-This is a demo
-Test
+# Flask Study
+This is a web project.
+
+About flask.
