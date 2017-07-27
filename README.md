@@ -1,7 +1,5 @@
 # Flask Study
-This is a web project.
-
-About flask.
+This is a web project about flask.
 
 `ascii.py`为图片传字符画，
 
