@@ -1,23 +1,21 @@
-# Flask Study
+1.**Flask Study**
 This is a web project about flask.
 
-`ascii.py`为图片传字符画，
+2.**ascii.py**
+`ascii.py`为图片传字符画；
 
-
-运行指令为：
+3.运行指令为：
 > python ascii.py test.png
 >
 > 写入文件：
 >
 > python ascii.py Doraemon.png >> output.txt
 
-
-
-**原图**
+(1)**原图**
 
 ![Doraemon.png](https://raw.githubusercontent.com/wonderomg/FlaskStudy/master/Doraemon.png)
 
-**对应字符画**
+(2)**对应字符画**
 
                                $$d0x0o#uxx0z#$$                                 
                           $qxxxxxxJ     "c     Wxd$                             
